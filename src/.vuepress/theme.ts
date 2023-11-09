@@ -7,6 +7,7 @@ const MR_HOPE_AVATAR =
 
 export default hopeTheme({
   hostname: "http://yl.luogesidoc.com",
+  favicon: "/logo.svg",
 
   author: {
     name: "yulin",
